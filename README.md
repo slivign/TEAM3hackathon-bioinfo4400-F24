@@ -18,9 +18,15 @@ Gene Therapy
 Pharmaceutical Chaperone Therapy
 Combination Therapy
 New Clinical Trials
+The most notable organ involved in the expression of Tay-Sachs is the brain and spinal cord. This disease causes progressive damage to neurons in the brain and spinal cord.
 HEXA gene, located on chromosome 15
 chr15:72,340,924-72,376,014
 ## Task D. Building a Protein (Cytoscape file)
+A PPI is a model that represents the physical interactions between proteins. This can include direct or indirect interactions. This means when proteins are working together. A gene co-expression network, on the other hand, is a network that shows similar expression patterns across different conditions or samples. This has more to do with the expression of the genes than the genes themselves, and does not imply physical interaction between gene products. 
 ## Task E. Find tissue-specific
+An eQTL (expression Quantitative Trait Locus) is a genomic region (a locus) containing a DNA variation that influences the expression levels of one or more genes. In simpler terms, an eQTL is a genetic variant that affects how much a particular gene is expressed (how much RNA or protein is produced from that gene).
+
+In the context of the human organism, eQTLs play a critical role in understanding the relationship between genetic variations and biological processes, including the development of diseases and traits.
+
 ## Task F: Hypothesis
 ## Task G: Report
