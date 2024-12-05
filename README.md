@@ -85,3 +85,10 @@ c. Perform pathway enrichment analysis to identify affected cellular processes.
 
 ## Task G: Report
 The github markdown language includes important aspects including headers, emphasis, lists, links, images, blockquotes, code, horizontal rules, tables, task lists, mentioning users and teams, emojis, and strikethrough. ‘#’ symbols can be used to create headers. Italics should be surrounded with a single asterisk or underscore. Bold texts should use double, and bold and italic texts should use triple. Unordered lists can use asterisks, plus signs or hyphens whereas ordered lists should use numbers and periods. Links can be inline or reference links, and should always have some kind of URL reference. Images can be inserted using “![Alt text](image URL).” Blockquotes always start with a ‘>.’ Codes can be inline codes or code clocks. Inline codes use backticks whereas code blocks use triple backticks or indents with four spaces. Horizontal rules say to use three or more hyphens, asterisks, or underscores. Tables are basic tables with headers and cells. Task lists can include completed tasks, which are marked with an ‘X,’ or uncompleted tasks. Users and teams can be mentioned by heading their title with an ‘@.’ Emojis can be inserted by using a colon on both sides of the emoji name. Strikethrough can be inserted by using double tildes on both sides (the squiggly lines).
+### Contributions
+Contributions:
+Rachel: Task G and various prometheus prompts, task g questions
+Lily: Task F (Hypothesis and Experimental Design)
+Sophia: creator of github repository and searched gene data bases for data files for all tasks
+Alyssa: Task C (overview of Tay-Sachs,), putting all into github
+Morgan: Task E (eQTLs) writing portion
