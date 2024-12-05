@@ -39,6 +39,7 @@ Healthy individuals (wild-type)
 Tay-Sachs patients (HEXA mutations)
 
 b. Culture cells under standard conditions.
+
 2. PPI Network Analysis
 
 a. Perform Co-IP assays to identify proteins interacting with β-hexosaminidase A in both wild-type and Tay-Sachs cells.
