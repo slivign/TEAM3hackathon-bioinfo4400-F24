@@ -47,14 +47,14 @@ c. Construct PPI networks for wild-type and Tay-Sachs cells
 3. Gene Expression Profiling:
 
 a. Extract RNA from both wild-type and Tay-Sachs cell lines.
-
 b. Perform RNA sequencing to obtain gene expression profiles.
-
 c. Analyze differential gene expression between wild-type and Tay-Sachs cells
-Network Perturbation Experiments 
-We will be looking at the GM2 Activator Protein (GM2A) since it is necessary for the function of the β-hexosaminidase A, product of the HEXA gene, which breaks down the GM2 ganglioside. 
-Use CRISPR-Cas9 to create knockout cell lines for the GM2 activator proteins in wild-type cells
-Overexpress these proteins in Tay-Sachs cells using lentiviral vectors
+
+4.) Network Perturbation Experiments 
+
+a. We will be looking at the GM2 Activator Protein (GM2A) since it is necessary for the function of the β-hexosaminidase A, product of the HEXA b. gene, which breaks down the GM2 ganglioside. 
+c. Use CRISPR-Cas9 to create knockout cell lines for the GM2 activator proteins in wild-type cells
+d. Overexpress these proteins in Tay-Sachs cells using lentiviral vectors
 
 5.)  Gene Expression Analysis After Network Perturbation:
 
