@@ -10,7 +10,8 @@ Proteins interacting with a seed protein can be found by searching a database. U
 A PPI network can be visualized and analyzed by importing a file, either locally or from a database, and analyzing it by using the tools, network analyzer, network analysis, analyze network and similar tools on a program. An example is doing this exact process through Cytoscape. A network can be determined to be scale-free by running a network analyzer, looking at the “Degree Distribution” plot, and analyzing the goodness of fit of data and the R-squared. 
 Pathway and disease enrichment for genes can be found through functional enrichment analysis tools. As an example, on ToppFun, identifiers such as gene symbols, Ensembl IDs, or Entrez Gene IDs can be used to search for genes through the “Input Genes” box. Analysis options such such as Pathway or Disease can be selected, and additional parameters can be adjusted as needed. After these steps, the analysis can be run and interpreted. Important values to analyze are the “Pathway” or “Disease” table, the “P-value,” “Genes from Input,” “Q-value FDR B&H,” etc. 
 
-[Uploading 0f4fcdb1-d420-44ca-a6ca-b33a540d8fd1.txt…]()
+[Toppfun PPI Network.xlsx](https://github.com/user-attachments/files/18024092/Toppfun.PPI.Network.xlsx)
+
 
 
 ## Background: Find tissue-specific eQTL
