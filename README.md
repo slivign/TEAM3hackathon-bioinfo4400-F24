@@ -21,6 +21,21 @@ There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA 
 ## Task F: Hypothesis
 Hypothesis: Alterations in the PPI network involving the HEXA gene product (β-hexosaminidase A) leads to a non-wild- type gene expression pattern in Tay-Sachs disease. 
 There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA is primarily expressed and mutated in neuronal tissues within the central nervous system. This is the primary location at which beta-hexosaminidase A breaks down a fatty acid substance known as GM2 Ganglioside. The physical symptoms of Tay-Sachs suggest that the expression of HEXA in the brain and spinal cord is critical for neurological health and development. There are numerous single nucleotide polymorphisms associated with aberrant HEXA expression in patients with Tay-Sachs.
+Experiment: 
+Cell Culture Preparation:
+a. Obtain fibroblast cell lines from:
+Healthy individuals (wild-type)
+Tay-Sachs patients (HEXA mutations)
+b. Culture cells under standard conditions.
+PPI Network Analysis
+a. Perform Co-IP assays to identify proteins interacting with                                                 β-hexosaminidase A in both wild-type and Tay-Sachs cells.
+b. Use mass spectrometry to analyze the co-precipitated proteins.
+c. Construct PPI networks for wild-type and Tay-Sachs cells 
+
+Gene Expression Profiling:
+a. Extract RNA from both wild-type and Tay-Sachs cell lines.
+b. Perform RNA sequencing to obtain gene expression profiles.
+
 
 This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The highest tissues as shown here, are cultured fibroblasts, brain tissue particularly the cerebral hemisphere, and the coronary artery. 
 ## Task G: Report
