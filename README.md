@@ -16,27 +16,51 @@ In the context of the human organism, eQTLs play a critical role in understandin
 
 There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA is primarily expressed and mutated in neuronal tissues within the central nervous system. This is the primary location at which beta-hexosaminidase A breaks down a fatty acid substance known as GM2 Ganglioside. The physical symptoms of Tay-Sachs suggest that the expression of HEXA in the brain and spinal cord is critical for neurological health and development.
 
+This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The highest tissues as shown here, are cultured fibroblasts, brain tissue particularly the cerebral hemisphere, and the coronary artery. 
+
 
 
 ## Task F: Hypothesis
 Hypothesis: Alterations in the PPI network involving the HEXA gene product (β-hexosaminidase A) leads to a non-wild- type gene expression pattern in Tay-Sachs disease. 
-There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA is primarily expressed and mutated in neuronal tissues within the central nervous system. This is the primary location at which beta-hexosaminidase A breaks down a fatty acid substance known as GM2 Ganglioside. The physical symptoms of Tay-Sachs suggest that the expression of HEXA in the brain and spinal cord is critical for neurological health and development. There are numerous single nucleotide polymorphisms associated with aberrant HEXA expression in patients with Tay-Sachs.
+
 Experiment: 
-Cell Culture Preparation:
+1. Cell Culture Preparation:
 a. Obtain fibroblast cell lines from:
 Healthy individuals (wild-type)
 Tay-Sachs patients (HEXA mutations)
 b. Culture cells under standard conditions.
-PPI Network Analysis
+2. PPI Network Analysis
 a. Perform Co-IP assays to identify proteins interacting with                                                 β-hexosaminidase A in both wild-type and Tay-Sachs cells.
 b. Use mass spectrometry to analyze the co-precipitated proteins.
 c. Construct PPI networks for wild-type and Tay-Sachs cells 
 
-Gene Expression Profiling:
+3. Gene Expression Profiling:
 a. Extract RNA from both wild-type and Tay-Sachs cell lines.
 b. Perform RNA sequencing to obtain gene expression profiles.
 
+c. Analyze differential gene expression between wild-type and Tay-Sachs cells
+Network Perturbation Experiments 
+We will be looking at the GM2 Activator Protein (GM2A) since it is necessary for the function of the β-hexosaminidase A, product of the HEXA gene, which breaks down the GM2 ganglioside. 
+Use CRISPR-Cas9 to create knockout cell lines for the GM2 activator proteins in wild-type cells
+Overexpress these proteins in Tay-Sachs cells using lentiviral vectors
 
-This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The highest tissues as shown here, are cultured fibroblasts, brain tissue particularly the cerebral hemisphere, and the coronary artery. 
+5.)  Gene Expression Analysis After Network Perturbation:
+a. Perform RNA-seq on the knockout and overexpression cell lines
+b. Compare gene expression profiles with the original wild-type and Tay-Sachs cells
+
+6.) Functional Assays:
+ Measure β-hexosaminidase A enzyme activity in all cell lines.
+  Assess GM2 ganglioside accumulation using thin-layer chromatography.
+ Evaluate lysosomal function through lysosomal pH measurements and cathepsin activity assays.
+
+7.)  Data Integration and Analysis:
+ Integrate PPI network data with gene expression profiles.
+ Use systems biology approaches to identify key regulatory nodes and potential feedback loops.
+ Perform pathway enrichment analysis to identify affected cellular processes.
+
+
+
+
+
 ## Task G: Report
 `A git repository can be created on github by clicking the “+” icon and creating a “New repository.” A new repository should have a name, and it should be public. This can be done by choosing “Public” for visibility. It should also have license; a license can be created by scrolling to “Add a license,” choosing “Choose a license,” and selecting a license. 
