@@ -12,7 +12,10 @@ Pathway and disease enrichment for genes can be found through functional enrichm
 ## Task E. Find tissue-specific
 An eQTL (expression Quantitative Trait Locus) is a genomic region (a locus) containing a DNA variation that influences the expression levels of one or more genes. In simpler terms, an eQTL is a genetic variant that affects how much a particular gene is expressed (how much RNA or protein is produced from that gene).
 
-In the context of the human organism, eQTLs play a critical role in understanding the relationship between genetic variations and biological processes, including the development of diseases and traits.
+In the context of the human organism, eQTLs play a critical role in understanding the relationship between genetic variations and biological processes, including the development of diseases and traits. In Tay-Sachs, mutations in the HEXA gene often result in diminished function, such as frameshift mutations, insertions, and deletions. However, eQTLs offer an interesting physiological opportunity to modify the severity of heterozygous Tay-Sachs patients and determine HEXA expression for therapeutic strategies. Identifying these eQTLs could be essential for developing targeted gene therapy and small molecule treatments. 
+
+There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA is primarily expressed and mutated in neuronal tissues within the central nervous system. This is the primary location at which beta-hexosaminidase A breaks down a fatty acid substance known as GM2 Ganglioside. The physical symptoms of Tay-Sachs suggest that the expression of HEXA in the brain and spinal cord is critical for neurological health and development.
+
 
 
 ## Task F: Hypothesis
