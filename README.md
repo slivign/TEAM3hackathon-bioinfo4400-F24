@@ -12,6 +12,7 @@ Pathway and disease enrichment for genes can be found through functional enrichm
 
 [Toppfun PPI Network.xlsx](https://github.com/user-attachments/files/18024092/Toppfun.PPI.Network.xlsx)
 
+[hexa-disease-edges.xlsx](https://github.com/user-attachments/files/18024389/hexa-disease-edges.xlsx) (cytoscape table)
 
 
 ## Background: Find tissue-specific eQTL
@@ -105,6 +106,6 @@ Sophia: creator of github repository and searched gene data bases for data files
 
 Alyssa: Task C (overview of Tay-Sachs,), putting all into github, conclusion
 
-Morgan: Task E (eQTLs) writing portion
+Morgan: Task E (eQTLs) writing portion, Task D (cytoscape)
 
 Prometheus
