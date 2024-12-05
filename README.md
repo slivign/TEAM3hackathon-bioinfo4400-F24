@@ -109,3 +109,5 @@ Alyssa: Task C (overview of Tay-Sachs,), putting all into github, conclusion
 Morgan: Task E (eQTLs) writing portion, Task D (cytoscape)
 
 Prometheus
+
+![Screenshot 2024-12-05 090730](https://github.com/user-attachments/assets/8c49a871-1e03-4255-b531-4c6ac41f356f)
