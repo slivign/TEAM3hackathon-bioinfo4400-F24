@@ -106,3 +106,5 @@ Sophia: creator of github repository and searched gene data bases for data files
 Alyssa: Task C (overview of Tay-Sachs,), putting all into github, conclusion
 
 Morgan: Task E (eQTLs) writing portion
+
+Prometheus
