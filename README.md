@@ -21,10 +21,10 @@ This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The
 [GTE eQTL for HEXA.pdf](https://github.com/user-attachments/files/18023941/GTE.eQTL.for.HEXA.pdf)
 This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The highest tissues as shown here, are cultured fibroblasts, brain tissue particularly the cerebral hemisphere, and the coronary artery. 
 
-## Task F: Hypothesis
+## Experiment: Hypothesis & Methods
 Hypothesis: Alterations in the PPI network involving the HEXA gene product (β-hexosaminidase A) leads to a non-wild- type gene expression pattern in Tay-Sachs disease. 
 
-Experiment: 
+Methods: 
 1. Cell Culture Preparation:
 a. Obtain fibroblast cell lines from:
 Healthy individuals (wild-type)
