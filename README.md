@@ -36,7 +36,9 @@ b. Use mass spectrometry to analyze the co-precipitated proteins.
 c. Construct PPI networks for wild-type and Tay-Sachs cells 
 
 3. Gene Expression Profiling:
+
 a. Extract RNA from both wild-type and Tay-Sachs cell lines.
+
 b. Perform RNA sequencing to obtain gene expression profiles.
 
 c. Analyze differential gene expression between wild-type and Tay-Sachs cells
