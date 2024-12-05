@@ -26,13 +26,18 @@ Hypothesis: Alterations in the PPI network involving the HEXA gene product (β-h
 
 Methods: 
 1. Cell Culture Preparation:
+
 a. Obtain fibroblast cell lines from:
 Healthy individuals (wild-type)
 Tay-Sachs patients (HEXA mutations)
+
 b. Culture cells under standard conditions.
 2. PPI Network Analysis
+
 a. Perform Co-IP assays to identify proteins interacting with                                                 β-hexosaminidase A in both wild-type and Tay-Sachs cells.
+
 b. Use mass spectrometry to analyze the co-precipitated proteins.
+
 c. Construct PPI networks for wild-type and Tay-Sachs cells 
 
 3. Gene Expression Profiling:
@@ -52,14 +57,14 @@ a. Perform RNA-seq on the knockout and overexpression cell lines
 b. Compare gene expression profiles with the original wild-type and Tay-Sachs cells
 
 6.) Functional Assays:
- Measure β-hexosaminidase A enzyme activity in all cell lines.
-  Assess GM2 ganglioside accumulation using thin-layer chromatography.
- Evaluate lysosomal function through lysosomal pH measurements and cathepsin activity assays.
+a.  Measure β-hexosaminidase A enzyme activity in all cell lines.
+b.  Assess GM2 ganglioside accumulation using thin-layer chromatography.
+c. Evaluate lysosomal function through lysosomal pH measurements and cathepsin activity assays.
 
 7.)  Data Integration and Analysis:
- Integrate PPI network data with gene expression profiles.
- Use systems biology approaches to identify key regulatory nodes and potential feedback loops.
- Perform pathway enrichment analysis to identify affected cellular processes.
+ a. Integrate PPI network data with gene expression profiles.
+ b. Use systems biology approaches to identify key regulatory nodes and potential feedback loops.
+ c. Perform pathway enrichment analysis to identify affected cellular processes.
 
 
 
