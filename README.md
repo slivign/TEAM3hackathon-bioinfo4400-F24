@@ -53,18 +53,26 @@ Use CRISPR-Cas9 to create knockout cell lines for the GM2 activator proteins in 
 Overexpress these proteins in Tay-Sachs cells using lentiviral vectors
 
 5.)  Gene Expression Analysis After Network Perturbation:
+
 a. Perform RNA-seq on the knockout and overexpression cell lines
+
 b. Compare gene expression profiles with the original wild-type and Tay-Sachs cells
 
 6.) Functional Assays:
+
 a.  Measure β-hexosaminidase A enzyme activity in all cell lines.
+
 b.  Assess GM2 ganglioside accumulation using thin-layer chromatography.
+
 c. Evaluate lysosomal function through lysosomal pH measurements and cathepsin activity assays.
 
 7.)  Data Integration and Analysis:
- a. Integrate PPI network data with gene expression profiles.
- b. Use systems biology approaches to identify key regulatory nodes and potential feedback loops.
- c. Perform pathway enrichment analysis to identify affected cellular processes.
+
+a. Integrate PPI network data with gene expression profiles.
+
+b. Use systems biology approaches to identify key regulatory nodes and potential feedback loops.
+
+c. Perform pathway enrichment analysis to identify affected cellular processes.
 
 
 
