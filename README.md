@@ -16,4 +16,9 @@ In the context of the human organism, eQTLs play a critical role in understandin
 
 
 ## Task F: Hypothesis
+Hypothesis: Alterations in the PPI network involving the HEXA gene product (β-hexosaminidase A) leads to a non-wild- type gene expression pattern in Tay-Sachs disease. 
+There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA is primarily expressed and mutated in neuronal tissues within the central nervous system. This is the primary location at which beta-hexosaminidase A breaks down a fatty acid substance known as GM2 Ganglioside. The physical symptoms of Tay-Sachs suggest that the expression of HEXA in the brain and spinal cord is critical for neurological health and development. There are numerous single nucleotide polymorphisms associated with aberrant HEXA expression in patients with Tay-Sachs.
+
+This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The highest tissues as shown here, are cultured fibroblasts, brain tissue particularly the cerebral hemisphere, and the coronary artery. 
 ## Task G: Report
+`A git repository can be created on github by clicking the “+” icon and creating a “New repository.” A new repository should have a name, and it should be public. This can be done by choosing “Public” for visibility. It should also have license; a license can be created by scrolling to “Add a license,” choosing “Choose a license,” and selecting a license. 
