@@ -18,6 +18,7 @@ There are multiple eQTLs that could alter the expression of the HEXA gene. HEXA 
 
 This is the tissue-specific eQTLs DNA polymorphisms found for the HEXA gene. The highest tissues as shown here, are cultured fibroblasts, brain tissue particularly the cerebral hemisphere, and the coronary artery. 
 
+[GTE eQTL for HEXA.pdf](https://github.com/user-attachments/files/18023941/GTE.eQTL.for.HEXA.pdf)
 
 
 ## Task F: Hypothesis
