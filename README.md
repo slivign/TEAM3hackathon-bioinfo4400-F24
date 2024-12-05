@@ -6,10 +6,14 @@ Tay-Sachs is an inherited genetic disorder that is caused by an absence of the e
 
 ## Task D. Building a Protein (Cytoscape file)
 A PPI is a model that represents the physical interactions between proteins. This can include direct or indirect interactions. This means when proteins are working together. A gene co-expression network, on the other hand, is a network that shows similar expression patterns across different conditions or samples. This has more to do with the expression of the genes than the genes themselves, and does not imply physical interaction between gene products. 
+Proteins interacting with a seed protein can be found by searching a database. Using a seed protein’s name, gene symbol or accession number in the search bar can find proteins. IntAct can be accessed via Cytoscape by installing IntAct importing it through Cytoscape, and then searching for the protein as noted above. 
+A PPI network can be visualized and analyzed by importing a file, either locally or from a database, and analyzing it by using the tools, network analyzer, network analysis, analyze network and similar tools on a program. An example is doing this exact process through Cytoscape. A network can be determined to be scale-free by running a network analyzer, looking at the “Degree Distribution” plot, and analyzing the goodness of fit of data and the R-squared. 
+Pathway and disease enrichment for genes can be found through functional enrichment analysis tools. As an example, on ToppFun, identifiers such as gene symbols, Ensembl IDs, or Entrez Gene IDs can be used to search for genes through the “Input Genes” box. Analysis options such such as Pathway or Disease can be selected, and additional parameters can be adjusted as needed. After these steps, the analysis can be run and interpreted. Important values to analyze are the “Pathway” or “Disease” table, the “P-value,” “Genes from Input,” “Q-value FDR B&H,” etc. 
 ## Task E. Find tissue-specific
 An eQTL (expression Quantitative Trait Locus) is a genomic region (a locus) containing a DNA variation that influences the expression levels of one or more genes. In simpler terms, an eQTL is a genetic variant that affects how much a particular gene is expressed (how much RNA or protein is produced from that gene).
 
 In the context of the human organism, eQTLs play a critical role in understanding the relationship between genetic variations and biological processes, including the development of diseases and traits.
+
 
 ## Task F: Hypothesis
 ## Task G: Report
