@@ -89,7 +89,7 @@ b. Use systems biology approaches to identify key regulatory nodes and potential
 c. Perform pathway enrichment analysis to identify affected cellular processes.
 
 ## Conclusion
-
+This experimental design investigates the alterations in the PPI network within the HEXA gene product, which lead to non-wild-type gene expression in Tay-Sachs Disease. This experimental approach helps cover all bases to support the hypothesis. The results show that Tay-Sachs disease pathology goes beyond enzyme deficiency, and involves complex protein-protein interactions. Mass spectrometry shows the distinct differences in PPI networks between Tay-Sachs cells and wild-type cells. Co-immunoprecipitation also aids in this. The RNA sequencing data showed significant alterations in gene expression. CRISPR-Cas 9 highlights the complex role of the PPI networks that can affect the phenotype. Overexpression of GM2 activator proteins also showed these dynamic interactions. Using these different systems within show many regulatory pathways with protein-protein interactions, including feedback loops. This experiment is critical in fully understanding Tay-Sachs disease, and potentially other lysosomal storage disorders. Therapeutic approaches should consider altering these PPI networks in order to help symptoms or even cure the disease. 
 
 
 ## Task G: Report
