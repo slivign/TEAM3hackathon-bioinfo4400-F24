@@ -21,6 +21,8 @@ Pharmaceutical Chaperone Therapy,
 Combination Therapy,
 New Clinical Trials
 
+### Organ of Expression
+The most notable organ involved in the expression of Tay-Sachs is the brain and spinal cord. This disease causes progressive damage to neurons in the brain and spinal cord. 
 
 ## Task D. Building a Protein (Cytoscape file)
 A PPI is a model that represents the physical interactions between proteins. This can include direct or indirect interactions. This means when proteins are working together. A gene co-expression network, on the other hand, is a network that shows similar expression patterns across different conditions or samples. This has more to do with the expression of the genes than the genes themselves, and does not imply physical interaction between gene products. 
