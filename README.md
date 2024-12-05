@@ -9,16 +9,16 @@ Frontline treatments:
 supportive care (improving day-to-day life)
 symptom management (anticonvulsant medication, respiratory care, nutritional support through feeding tubes, physical therapy, medications for pain
 Criteria for Successful Treatment:
-Symptom relief
-Slowing disease progression
-Quality of life improvement
+Symptom relief,
+Slowing disease progression,
+Quality of life improvement,
 Biomarker improvements
 Options if frontline therapy fails:
-Stem cell transplantation
-Substrate reduction therapy (GM2 ganglioside)
-Gene Therapy
-Pharmaceutical Chaperone Therapy
-Combination Therapy
+Stem cell transplantation,
+Substrate reduction therapy (GM2 ganglioside),
+Gene Therapy,
+Pharmaceutical Chaperone Therapy,
+Combination Therapy,
 New Clinical Trials
 
 
